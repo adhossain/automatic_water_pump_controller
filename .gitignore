@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+.build/
+*.bin
+*.elf
+*.map
+*.o
+*.d
+build/
+.espressif/
+__pycache__/
+*.pyc
+.vscode/
+=======
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
+#Symbols folder
+.alpackages/
+#Snapshots folder
+.snapshots/
+#Testing Output folder
+.output/
+#Extension App-file
+*.app
+#Rapid Application Development File
+rad.json
+#Translation Base-file
+*.g.xlf
+#License-files
+*.bclicense
+*.flf
+#Test results file
+TestResults.xml
+backup.zip
+>>>>>>> 6d1ea8c3615171704ff186f95f223cb4b250f39a
+hardware/automatic_water_pump_controller/.history
+hardware/automatic_water_pump_controller/.history
